@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a DevOps guy, I create Infrastructures, Automations, Monitoring solutions, and whatever is needed,<br>I Develop in C# / PY / REACT / NODE, Getting Started in C & Reversing as well<br>
+I'm a DevOps guy, I create Infrastructures, Automations, Monitoring solutions, and whatever is needed,<br>I Develop in C# / PY / REACT / NODE, I do Dockers Containers, Terraform And whatever the task requires!<br>
 
 
 ## 🌐 Socials:
